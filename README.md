@@ -1,7 +1,7 @@
-# git-and-github-tutorial
+# Git Essential / Git For Everybody
 
-## Deployment notes
+> This is a couse to teach you how to use everyday git.
 
-## How to use this repo notes
+Course created by Taulien.
 
-## Some new topic notes
+Course modified by Muzafferus
